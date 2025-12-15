@@ -1,0 +1,83 @@
+[
+    {
+        "category": "Frontend",
+        "skills": [
+            {
+                "name": "HTML",
+                "level": 95
+            },
+            {
+                "name": "CSS",
+                "level": 90
+            },
+            {
+                "name": "Tailwind",
+                "level": 85
+            },
+            {
+                "name": "React",
+                "level": 80
+            },
+            {
+                "name": "JS ES6+",
+                "level": 70
+            }
+        ]
+    },
+    {
+        "category": "Backend",
+        "skills": [
+            {
+                "name": "Node.js",
+                "level": 75
+            },
+            {
+                "name": "Express.js",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "category": "Database",
+        "skills": [
+            {
+                "name": "MongoDB",
+                "level": 75
+            }
+        ]
+    },
+    {
+        "category": "Deployment",
+        "skills": [
+            {
+                "name": "Netlify",
+                "level": 85
+            },
+            {
+                "name": "Render",
+                "level": 80
+            },
+            {
+                "name": "Atlas",
+                "level": 80
+            }
+        ]
+    },
+    {
+        "category": "Tools",
+        "skills": [
+            {
+                "name": "Git/GitHub",
+                "level": 85
+            },
+            {
+                "name": "REST APIs",
+                "level": 80
+            },
+            {
+                "name": "JWT",
+                "level": 80
+            }
+        ]
+    }
+]
