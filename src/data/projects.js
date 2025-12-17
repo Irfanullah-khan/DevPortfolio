@@ -60,7 +60,7 @@ export default [
             "Cloudinary"
         ],
         "image": todoImage,
-        "liveLink": "https://mytodoapplicata.netlify.app/login",
+        "liveLink": "https://mytodoapplicata.netlify.app/",
         "repoLinks": {
             "frontend": "https://github.com/Irfanullah-khan/mytodo-frontend",
             "backend": "https://github.com/Irfanullah-khan/mytodo-backend"
