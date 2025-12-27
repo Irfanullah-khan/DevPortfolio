@@ -28,11 +28,11 @@ const Footer = () => {
             </a>
           </div>
 
-          <div className="text-[var(--secondary)] text-sm flex items-center">
-            <p>© {new Date().getFullYear()} Made with </p>
-            <FaHeart className="mx-1 text-red-500" />
-            <p>by Me</p>
-          </div>
+     <div className="text-[var(--secondary)] text-sm flex items-center gap-1">
+  <p>© {new Date().getFullYear()}</p>
+  <p>Built & maintained by <span className="font-semibold">Irfanullah</span></p>
+</div>
+
         </div>
       </div>
     </footer>
