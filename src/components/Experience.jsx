@@ -10,7 +10,7 @@ const Experience = () => {
       title: 'BS Computer Science',
       institution: 'COMSATS University, Abbottabad Campus',
       period: '2023 - Present',
-      description: 'Eagerly acquiring comprehensive knowledge of Computer Science and Software Engineering fundamentals. Maintaining a CGPA of 3.8/4.0.',
+      description: 'Eagerly acquiring comprehensive knowledge of Computer Science and Software Engineering fundamentals. Maintaining a CGPA of 3.83/4.0.',
     },
     {
       id: 3,

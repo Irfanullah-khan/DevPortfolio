@@ -55,6 +55,20 @@ const Hero = () => {
                         >
                             View Projects
                         </a>
+
+                        <button
+                            onClick={() => {
+                                const link = document.createElement('a');
+                                link.href = '/CV.pdf';
+                                link.download = 'Irfanullah_Khan_CV.pdf';
+                                document.body.appendChild(link);
+                                link.click();
+                                document.body.removeChild(link);
+                            }}
+                            className="px-8 py-3 rounded-full border-2 border-[var(--primary)] text-[var(--primary)] font-medium hover:bg-[var(--primary)] hover:text-white transition-all shadow-lg hover:shadow-[var(--primary)]/30 transform hover:-translate-y-1"
+                        >
+                            Download CV
+                        </button>
                     </div>
 
 
